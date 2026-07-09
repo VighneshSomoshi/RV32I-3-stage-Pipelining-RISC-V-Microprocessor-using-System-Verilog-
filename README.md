@@ -1,0 +1,2 @@
+# RV32I-3-stage-Pipelining-RISC-V-Microprocessor-using-System-Verilog-
+A 32-bit 3-stage pipelined RISC-V (RV32I) processor designed in SystemVerilog, featuring Instruction Fetch, Decode/Execute, and Memory/Writeback stages. Supports the complete RV32I base ISA with hazard detection, data forwarding, pipeline stalling, branch/jump control, and an efficient register file for reliable instruction execution.
