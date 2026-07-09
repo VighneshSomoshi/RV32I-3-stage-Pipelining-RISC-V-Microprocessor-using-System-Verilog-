@@ -25,3 +25,4 @@ The design is modular, with separate SystemVerilog modules for the datapath, con
 * Designed for simulation, verification, and computer architecture education
 
 This project demonstrates the fundamental concepts of pipelined processor design, instruction decoding, control signal generation, hazard resolution, and efficient datapath implementation while adhering to the RISC-V RV32I specification.
+<img width="2753" height="3440" alt="riscv_3stage_file_structure" src="https://github.com/user-attachments/assets/971225de-444c-4dd0-b689-106cd56f0807" />
